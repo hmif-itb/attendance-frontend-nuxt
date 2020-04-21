@@ -1,0 +1,39 @@
+$color-hmif-green: #4E5E4A;
+$color-hmif-yellow: #FFC107;
+$color-hmif-orange: #FF9800;
+
+.font-weight-black {
+  font-weight: 900;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.letter-spacing-normal {
+  letter-spacing: normal !important;
+}
+
+.color-hmif-green {
+  color: $color-hmif-green;
+}
+
+.color-hmif-yellow {
+  color: $color-hmif-yellow;
+}
+
+.color-hmif-orange {
+  color: $color-hmif-orange;
+}
+
+.bg-hmif-green {
+  background-color: $color-hmif-green;
+}
+
+.bg-hmif-yellow {
+  background-color: $color-hmif-yellow;
+}
+
+.bg-hmif-orange {
+  background-color: $color-hmif-orange;
+}
